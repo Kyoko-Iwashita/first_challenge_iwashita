@@ -2,7 +2,7 @@
 
 FirstChallenge::FirstChallenge() : Node("first_challenge_sample")
 {
-
+    // second commit
     // global変数を定義
     hz_ = this->declare_parameter<int>("hz", 10);
 
